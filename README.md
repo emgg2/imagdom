@@ -6,7 +6,7 @@ Using imagdom:
 npm install imagdom
 ```
 
-#Example
+##Example
 
 In order to get an ramdom image from https://pixabay.com/
 
@@ -25,7 +25,7 @@ const image = imagdom.getImage(imgFilter);
 
 ```
 
-## Parameters
+# Parameters
 
 imgFilter is not mandatory. It is available to use one of them, two or a combination all of them
  parameter | Description 
@@ -36,7 +36,7 @@ imgFilter is not mandatory. It is available to use one of them, two or a combina
  **orientation** |  *str*	Whether an image is wider than it is tall, or taller than it is wide. *Accepted values:* "all", "horizontal", "vertical" Default: "all" 
  **category** | *str*	Filter results by category. *Accepted values:* backgrounds, fashion, nature, science, education, feelings, health, people, religion, places, animals, industry, computer, food, sports, transportation, travel, buildings, business, music 
 
-## Image object
+# Image object
 
 You will recive an object like object below
 
