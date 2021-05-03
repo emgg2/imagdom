@@ -6,7 +6,7 @@ Using imagdom:
 npm install imagdom
 ```
 
-##Example
+# Example
 
 In order to get an ramdom image from https://pixabay.com/
 
