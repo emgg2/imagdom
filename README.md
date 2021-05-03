@@ -38,7 +38,7 @@ imgFilter is not mandatory. It is available to use one of them, two or a combina
 
 # Image object
 
-You will recive an object like object below
+You will recibe an object like object below
 
 ```
   picture: {
