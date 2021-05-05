@@ -67,3 +67,18 @@ You will recibe an object like object below
   }
 
 ```
+
+## Create a free account in Paxabay 
+
+To use pixabay it is mandatory to get a API_KEY. https://pixabay.com/ click Join
+
+When you are logged you can find your api key on https://pixabay.com/api/docs/ 
+
+Parameters
+-------------------
+key | Your API key: XXXXX-XXXXX
+
+Copy your api key and create an global variable in your .env file called
+
+IMAGDOM_API_KEY = XXXXX-XXXXX
+
